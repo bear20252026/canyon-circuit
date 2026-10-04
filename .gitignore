@@ -1,0 +1,11 @@
+node_modules/
+dist/
+shots/
+/.manus-webdev/preview-identity.json
+server/node_modules
+.agent-notes.md
+# Raw generation/catalog sources (large; runtime outputs live in public/assets)
+assets/catalog/
+assets/src-art/
+assets/src-3d/*
+!assets/src-3d/opt/
